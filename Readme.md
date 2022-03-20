@@ -1,0 +1,1 @@
+Neste projeto iniciei meus estudos em ruby criando um cadastro de usuários de um jornal
